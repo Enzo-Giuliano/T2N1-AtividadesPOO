@@ -40,8 +40,7 @@ public class Principal {
 	} else if (selecao == 3) {
 		resultado = num1 * num2;
 		System.out.println("O produto entre os dois números é: " + resultado);
-	}
-	else {
+	} else {
 		System.out.println("Você não selecionou uma opção válida.");
 	}
 	
