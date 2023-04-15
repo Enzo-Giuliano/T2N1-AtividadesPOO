@@ -17,12 +17,13 @@ public class Principal {
 	System.out.println("Digite o segundo número: ");
 	num2 = sc.nextFloat();
 	
-	System.out.println("Escolha a operação que deseja fazer digitando \"1\", \"2\" ou \"3\": ");
+	System.out.println("\nEscolha a operação que deseja fazer digitando \"1\", \"2\" ou \"3\": ");
 	System.out.println("1. Média entre dois números");
 	System.out.println("2. Diferença do maior pelo menor");
 	System.out.println("3. O produto entre os dois números");
 	selecao = sc.nextInt();
 	
+  System.out.println("\n");
 	if (selecao == 1) {
 		resultado = (num1 + num2)/2;
 		System.out.println("A média entre os dois número é: " + resultado);
