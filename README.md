@@ -2,21 +2,29 @@
 
 Repositório destinado às atividades do segundo trabalho da disciplina de Programação Orientada a Objetos do P3 de informática ministrada pelo professor Roger Moura.
 
+## Informações sobre a equipe e disciplina
 **Equipe:**
-  <br>  **• Nome Completo:** Anderson Maia Santos
-  <br>  **• Nome Completo:** Enzo Giuliano Machado Vilar 
+  <br>  **• Nome Completo:** [Anderson Maia Santos](https://github.com/TheAnders007)
+  <br>  **• Nome Completo:** [Enzo Giuliano Machado Vilar](https://github.com/Enzo-Giuliano)
 <br> **Curso:** Técnico Integrado em Infórmatica
 <br> **Turno:** Integral
 <br> **Turma:** P3
 <br> **Etapa:** N1
 <br> **Disciplina:** POO (Programação Orientada a Objetos)
-<br> **Professor:** Roger Moura Sarmento
+<br> **Professor:** [Roger Moura Sarmento](https://github.com/rogermsarmento)
 <br> **Data Entrega:** 25/04/2023
 <br>
 
 | Integrantes |
 | :-----------: |
 | ![Anderson Maia.png](https://user-images.githubusercontent.com/124885820/223561276-7331792c-6207-484a-a3a7-6cc69ddc0e60.png) | 
+
+<br>
+
+**Descrição**
+<br>
+O segundo trabalho consiste em questões para serem resolvidas na linguagem de programação Java que buscando dar um conhecimento básico a como utilizar estruturas de condição, como if/else e switch/case.
+<br>
 
 
 
