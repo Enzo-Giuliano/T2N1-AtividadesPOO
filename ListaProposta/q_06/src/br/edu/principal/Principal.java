@@ -24,7 +24,7 @@ public class Principal {
 	selecao = sc.nextInt();
 	
 	if (selecao == 1) {
-		resultado = num1 + num2;
+		resultado = (num1 + num2)/2;
 		System.out.println("A média entre os dois número é: " + resultado);
 	} else if (selecao == 2) {
 		if (num1 > num2) {
